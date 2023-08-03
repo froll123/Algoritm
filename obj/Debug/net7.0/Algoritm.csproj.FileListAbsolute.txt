@@ -1,0 +1,15 @@
+E:\Алгоритмы\Algoritm\bin\Debug\net7.0\Algoritm.exe
+E:\Алгоритмы\Algoritm\bin\Debug\net7.0\Algoritm.deps.json
+E:\Алгоритмы\Algoritm\bin\Debug\net7.0\Algoritm.runtimeconfig.json
+E:\Алгоритмы\Algoritm\bin\Debug\net7.0\Algoritm.dll
+E:\Алгоритмы\Algoritm\bin\Debug\net7.0\Algoritm.pdb
+E:\Алгоритмы\Algoritm\obj\Debug\net7.0\Algoritm.csproj.AssemblyReference.cache
+E:\Алгоритмы\Algoritm\obj\Debug\net7.0\Algoritm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Алгоритмы\Algoritm\obj\Debug\net7.0\Algoritm.AssemblyInfoInputs.cache
+E:\Алгоритмы\Algoritm\obj\Debug\net7.0\Algoritm.AssemblyInfo.cs
+E:\Алгоритмы\Algoritm\obj\Debug\net7.0\Algoritm.csproj.CoreCompileInputs.cache
+E:\Алгоритмы\Algoritm\obj\Debug\net7.0\Algoritm.dll
+E:\Алгоритмы\Algoritm\obj\Debug\net7.0\refint\Algoritm.dll
+E:\Алгоритмы\Algoritm\obj\Debug\net7.0\Algoritm.pdb
+E:\Алгоритмы\Algoritm\obj\Debug\net7.0\Algoritm.genruntimeconfig.cache
+E:\Алгоритмы\Algoritm\obj\Debug\net7.0\ref\Algoritm.dll
