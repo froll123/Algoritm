@@ -44,7 +44,6 @@ class HeapSort
         }
     }
 
-
     void PrintArray(int[] arr)
     {
         int n = arr.Length;
@@ -52,7 +51,6 @@ class HeapSort
             Console.Write(arr[i] + " ");
         Console.WriteLine();
     }
-
 
     static void Main()
     {
